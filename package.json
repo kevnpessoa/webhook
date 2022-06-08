@@ -1,0 +1,20 @@
+{
+  "name": "webhook",
+  "version": "1.0.0",
+  "description": "A example test of webhook with Node.js + Express",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "webhook"
+  ],
+  "author": "Kevin Nacipe Pereira Pessoa",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "dotenv": "^16.0.1",
+    "express": "^4.18.1"
+  }
+}
